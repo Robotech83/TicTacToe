@@ -3,6 +3,8 @@
 A simple, browser-based **Tic Tac Toe game** built with **vanilla JavaScript**, HTML, and CSS.  
 This project focuses on **core JavaScript logic**, conditional flow, and DOM manipulation **without frameworks**.
 
+🚧 **Status:** This project is still under construction.
+
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://robotech83.github.io/TicTacToe/)
 
